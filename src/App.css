@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.header-container {
+  background-color: aqua;
+  height: 70px;
+}
+.main-container {
+  background-color: pink;
+  min-height: 100vh;
+}
+.footer-container {
+  background-color: blueviolet;
+  height: 50px;
+}
+.profile-container {
+  margin: 20px;
+  background-color: aqua;
+}
+.form-container {
+  background-color: brown;
+  margin: 20px;
+  color: white;
+}
+.quote-container {
+  background-color: aquamarine;
+}
+button {
+  border: none;
+  padding: 5px 10px;
+  border-radius: 8px;
+  background-color: bisque;
+  margin-left: 20px;
+}
